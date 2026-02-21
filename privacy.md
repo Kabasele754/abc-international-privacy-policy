@@ -2,119 +2,160 @@
 ## Privacy Policy  
 
 **Effective Date:** 18 June 2026  
+**Last Updated:** 18 June 2026  
 
 ---
 
-## Introduction  
+## 1. Introduction  
 
-ABC International School ("we", "our", or "us") operates the ABC International School mobile application (the "Service").  
+ABC International School ("we", "our", or "us") operates the ABC International School mobile application (the "Service").
 
-This Service is designed to provide advanced English learning support, academic management, attendance tracking, and smart campus features.
+Our Service provides advanced English language education, academic management, attendance tracking, and digital campus tools.
 
-By using our Service, you agree to the collection and use of information in accordance with this Privacy Policy. The personal information we collect is used to provide and improve our educational services. We do not share your information with anyone except as described in this Privacy Policy.
+We are committed to protecting your personal information in accordance with:
+
+- The Protection of Personal Information Act (POPIA) – South Africa  
+- The General Data Protection Regulation (GDPR), where applicable  
+
+By using our Service, you agree to the collection and use of information as described in this Privacy Policy.
 
 ---
 
-## Information Collection and Use  
+## 2. Information We Collect  
 
-To provide a high-quality English learning experience, we may collect the following information:
+We may collect the following categories of personal information:
 
+### Personal Identification Information
 - Full name  
 - Email address  
 - Gender  
-- Profile picture  
-- Academic information (attendance, homework, objectives, progress)  
-- Location information (for smart attendance and campus services)  
+- Profile photo  
 
-This information is used to:
+### Academic Information
+- Attendance records  
+- Homework submissions  
+- Learning objectives  
+- Academic progress  
 
-- Provide structured English learning programs  
-- Manage attendance and academic records  
-- Improve student performance tracking  
-- Secure student and teacher accounts  
-- Enhance campus safety and management  
-
-We retain collected information only as long as necessary to provide our services.
-
----
-
-## Location Information  
-
-Certain features of the app may require access to location data, particularly for QR attendance and campus verification systems.
-
-Location information is used strictly within the educational scope of the Service and is not used for advertising or unrelated tracking purposes.
-
----
-
-## Device Information  
-
-We may collect limited device-related information such as:
-
+### Technical Information
 - Device type  
-- Operating system version  
+- Operating system  
 - App version  
+- Log data  
 
-This information is used to improve performance, prevent fraud, and ensure compatibility.
+### Location Data
+We may collect location information for:
+- QR attendance verification  
+- Campus safety and validation  
 
-This data does not directly identify individual users.
-
----
-
-## Cookies and Tracking Technologies  
-
-The ABC International School app does not directly use cookies.  
-
-However, third-party services integrated into the app may use similar technologies to enhance functionality, analytics, or notifications.
-
-Users may manage certain permissions via their device settings.
+Location data is not used for advertising purposes.
 
 ---
 
-## Third-Party Service Providers  
+## 3. Legal Basis for Processing (GDPR Compliance)
 
-We may use third-party companies and services to:
+We process personal data based on:
+
+- User consent  
+- Educational contract obligations  
+- Legitimate educational interests  
+- Legal compliance requirements  
+
+Users in applicable regions have the right to request access, correction, or deletion of their data.
+
+---
+
+## 4. How We Use Your Information  
+
+We use collected information to:
+
+- Deliver English learning services  
+- Manage academic records  
+- Track attendance  
+- Improve learning performance  
+- Enhance user experience  
+- Maintain campus security  
+- Prevent fraud and misuse  
+
+We do not sell personal data to third parties.
+
+---
+
+## 5. Data Retention  
+
+Personal data is retained only as long as necessary to:
+
+- Provide educational services  
+- Comply with legal obligations  
+- Resolve disputes  
+
+Users may request data deletion where legally permitted.
+
+---
+
+## 6. Third-Party Service Providers  
+
+We may use trusted third-party providers to:
 
 - Host the application  
-- Store data securely  
-- Provide analytics  
+- Provide cloud storage  
 - Deliver notifications  
-- Maintain technical infrastructure  
+- Perform analytics  
 
-These third parties are obligated to protect your information and use it only for authorized purposes.
-
----
-
-## Data Security  
-
-We value your trust and use commercially reasonable measures to protect your personal information.  
-
-However, no method of internet transmission or electronic storage is completely secure. While we strive to protect your data, we cannot guarantee absolute security.
+These providers are contractually obligated to safeguard personal information.
 
 ---
 
-## Children’s Privacy  
+## 7. Data Security  
 
-Our Service does not knowingly collect personal information from children under the age of 13 without appropriate parental or institutional consent.
+We implement commercially reasonable technical and organizational measures to protect personal information.
 
-If we discover that a child under 13 has provided personal information without authorization, we will delete such information promptly.
-
-Parents or guardians who believe their child has provided personal information may contact us.
+However, no digital transmission or storage method is 100% secure. While we strive to protect data, we cannot guarantee absolute security.
 
 ---
 
-## Changes to This Privacy Policy  
+## 8. Children’s Privacy  
 
-We may update this Privacy Policy from time to time.  
+Our Service does not knowingly collect personal information from children under 13 without parental or institutional authorization.
+
+If we discover that such information has been collected without proper consent, we will delete it promptly.
+
+Parents or guardians may contact us to request data removal.
+
+---
+
+## 9. Your Rights  
+
+Depending on your jurisdiction, you may have the right to:
+
+- Access your personal data  
+- Correct inaccurate information  
+- Request deletion of your data  
+- Restrict processing  
+- Withdraw consent  
+- File a complaint with a regulatory authority  
+
+Requests may be submitted via the contact details below.
+
+---
+
+## 10. International Data Transfers  
+
+If personal data is transferred outside South Africa, we ensure appropriate safeguards are implemented in accordance with POPIA and GDPR.
+
+---
+
+## 11. Changes to This Privacy Policy  
+
+We may update this Privacy Policy periodically.
 
 Any changes will be posted on this page and become effective immediately upon publication.
 
-Users are encouraged to review this policy periodically.
-
 ---
 
-## Contact Us  
+## 12. Contact Information  
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us:
+If you have questions regarding this Privacy Policy or wish to exercise your rights, please contact:
 
 **ABC International School**  
 📧 Email: info@abcinternational.co.za  
